@@ -1,0 +1,21 @@
+
+#layoutStyle {
+    font-family: 'Spectral', serif;
+}
+
+#drawerStyle {
+    background-color: #3a7bd5;
+}
+
+#titleStyle {
+    font-family: 'Spectral', serif;
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+#linkStyle {
+    color: white;
+    font-size: 17px;
+    font-weight: 700;
+}
