@@ -24,15 +24,13 @@ class Resume extends Component {
                         <h2>Corrado Alfano</h2>
                         <h4> Full Stack Software Developer</h4>
                         <hr />
-                        <p>I am a very adept Full Stack Software Developer, skilled in browser-based technologies such as JavaScript, React.js, HTML, CSS, JQuery and web key skills like MongoDB, MySQL, RESTful API, Heroku, GITHub and more. My fire comes from a passion of helping people and my stubbornness of thinking “outside the comfort zone” to find a solution, which translates to problem solving, whether that is a human or a computer related challenge.
-                            <br/>
-                            In the last year, I have worked to develop computer and programming skills to the highest level, and I have been working and studying alongside some of the best developers in the Los Angeles area.
-                            <br/>
-                            I’m a problem solver and very results-driven. Doing a good job and achieving the desired end result is my primary motivation. While I enjoy working on a project on my own, I’m particularly motivated by the buzz of working in a team.
-                            It’s very rewarding working closely with others who share the same common goal. I like to take on a challenge; I like to rise to that challenge as part of a concerted team effort.
-                            <br/>
-                            <br/>
-                            My resume gives a brief synopsis of my history which I'd like to discuss further during an interview.
+                        <p>
+                            I pride myself as a logical and creative thinker who enjoys learning new languages, frameworks and technologies.<br/>
+                            My analytical skills, education, and passion are crucial to be one step ahead in this ever evolving technological industry.
+                            My stellar organizational skills are essential to keep code DRY as re-factored as possible.<br/><br/>
+                            The gratification of solving problems is what drives me to be a better programmer.
+
+                            A business background combined with the entrepreneurial spirit can be utilized for aligning profitable goals when programming software.
                         </p>
                         <hr />
                         <h5>Address</h5>
@@ -40,7 +38,10 @@ class Resume extends Component {
                         <h5>Email</h5>
                         <a href="mailto:cj.alfano@yahoo.com?subject=We%20want%20you%20in%20our%20team!!&body=message%20goes%20here"><strong>cj.alfano@yahoo.com</strong></a>
                         <h5>Resume</h5>
-                        <a href='https://docs.google.com/document/d/1z_rkTi9kQtj7PnDwzda-RJFpqVOE6O4cWHJNgB33d-U/edit?usp=sharing' target='a_blank'><strong>Corrado Resume PDF Version</strong></a>
+                        <a href='https://drive.google.com/file/d/1Y8VkH62sACU4L7a2aoOc2u7nJFa2ytYV/view?usp=sharing' target='a_blank'><strong>Resume Colored Version</strong></a>
+                        <br/>
+                        <br/>
+                        <a href='https://docs.google.com/document/d/1z_rkTi9kQtj7PnDwzda-RJFpqVOE6O4cWHJNgB33d-U/edit?usp=sharing' target='a_blank'><strong>Resume Black & White Version</strong></a>
 
 
                     </Cell>
@@ -71,8 +72,9 @@ class Resume extends Component {
                             endYear={2017}
                             jobTitle='Assistant General Manager'
                             jobName='Four Seasons Hotel & Resorts | CUT by Wolfgang Puck'
-                            jobDescription='Working with the Director of Marketing in generating business by creating new events and promotions to increase revenue in both CUT and sidebar.
-                            Working closely with the IT department on any daily challenges with Squirrel Software sydstem, such as crashes, upgrades or change of style. Also set-up and worked on Excel in creatingspreadsheet financial analysis for the restaurant and the hotel based upon daily data provided by the system. '
+                            jobDescription=
+                            "➢	Increased customer satisfaction rate by developing and elevating guest service experience.
+                             ➢	Decreased IT issues with Squirrel Software system, such as frozen system, upgrades or change of style. Also decreased labor cost by creating financial spreadsheet analysis for the restaurant and the hotel based upon implemented daily data."
                         />
 
                         <Experience
