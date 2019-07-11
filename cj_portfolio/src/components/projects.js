@@ -16,17 +16,17 @@ class Projects extends Component {
 
                 <div className='projects-grid'>
                     <Card shadow={5} id='cardStyle'>
-                        <CardTitle style={{background: 'url(https://www.nawe.co.uk/Private/28879/Live/image/6675-1.JPG) center / cover'}} id='cardTitleStyle'></CardTitle>
+                        <CardTitle style={{ background: 'url(https://www.nawe.co.uk/Private/28879/Live/image/6675-1.JPG) center / cover' }} id='cardTitleStyle'></CardTitle>
                         <CardText>
                             <h1 id='buttonStyle'>NYT-GoogleBooks</h1>
                             <p>
                                 This project was bootstrapped with Create React App.
-                                The application shows a google search on any books. You can save books you have selected and delete them once you don't want them anymore.                     
+                                The application shows a google search on any books. You can save books you have selected and delete them once you don't want them anymore.
                             </p>
                         </CardText>
                         <CardActions border >
                             <Button id='buttonStyle' href='https://github.com/Corry104/NYT-GoogleBooks/tree/master/Google-Books' target='_blank'>GitHub</Button>
-                            <Button id='buttonStyle'href='https://google-books-corrado.herokuapp.com/' target='_blank'>Heroku</Button>
+                            <Button id='buttonStyle' href='https://google-books-corrado.herokuapp.com/' target='_blank'>Heroku</Button>
                             {/* <Button colored>LiveDemo</Button> */}
                         </CardActions>
                         <CardMenu id='cardMenuStyle' >
@@ -42,7 +42,7 @@ class Projects extends Component {
 
                 <div className='projects-grid'>
                     <Card shadow={5} id='cardStyle'>
-                        <CardTitle style={{background: 'url(https://github.com/Corry104/KindeReady/blob/master/assets/images/welcome_bg/kindeready-bg-3.png?raw=true) center / cover'}} id='cardTitleStyle'></CardTitle>
+                        <CardTitle style={{ background: 'url(https://github.com/Corry104/KindeReady/blob/master/assets/images/welcome_bg/kindeready-bg-3.png?raw=true) center / cover' }} id='cardTitleStyle'></CardTitle>
                         <CardText>
                             <h1 id='buttonStyle'>KindeReady</h1>
                             <p>
@@ -52,11 +52,11 @@ class Projects extends Component {
                             </p>
                         </CardText>
                         <CardActions border id='cardActionStyle'>
-                            <Button id='buttonStyle'href='https://github.com/Corry104/KindeReady' target='_blank'>GitHub</Button>
-                            <Button id='buttonStyle'href='https://kindeready.herokuapp.com/' target='_blank'>Heroku</Button>
+                            <Button id='buttonStyle' href='https://github.com/Corry104/KindeReady' target='_blank'>GitHub</Button>
+                            <Button id='buttonStyle' href='https://kindeready.herokuapp.com/' target='_blank'>Heroku</Button>
                             {/* <Button colored>LiveDemo</Button> */}
                         </CardActions>
-                        <CardMenu  id='cardMenuStyle'>
+                        <CardMenu id='cardMenuStyle'>
                             <IconButton name='share' />
                         </CardMenu>
                     </Card>
@@ -68,17 +68,17 @@ class Projects extends Component {
 
                 <div className='projects-grid'>
                     <Card shadow={5} id='cardStyle'>
-                        <CardTitle style={{background: 'url(http://brand.ucla.edu/images/identity/logos-and-marks/campus-seal.jpg) center / cover'}}id='cardTitleStyle'></CardTitle>
+                        <CardTitle style={{ background: 'url(http://brand.ucla.edu/images/identity/logos-and-marks/campus-seal.jpg) center / cover' }} id='cardTitleStyle'></CardTitle>
                         <CardText>
                             <h1 id='buttonStyle'>Bamazon</h1>
                             <p><strong>
-                                School Project:<br/>
+                                School Project:<br />
                                 Amazon like application where the app will take in orders from customers and deplete stock from the store's inventory
                                 </strong></p>
                         </CardText>
                         <CardActions border>
-                            <Button id='buttonStyle'href='https://github.com/Corry104/Bamazon' target='_blank'>GitHub</Button>
-                            <Button id='buttonStyle'href='https://drive.google.com/file/d/1xHC9_ShB6C8-kmVnWdJ1FV8L8tQU-2r-/view' target='_blank'>Demo</Button>
+                            <Button id='buttonStyle' href='https://github.com/Corry104/Bamazon' target='_blank'>GitHub</Button>
+                            <Button id='buttonStyle' href='https://drive.google.com/file/d/1xHC9_ShB6C8-kmVnWdJ1FV8L8tQU-2r-/view' target='_blank'>Demo</Button>
                             {/* <Button colored>LiveDemo</Button> */}
                         </CardActions>
                         <CardMenu id='cardMenuStyle'>
