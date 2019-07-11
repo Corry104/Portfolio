@@ -1,0 +1,69 @@
+/* CSS for Contact Page */
+
+.contact-body {
+    background: #00d2ff;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3a7bd5, #00d2ff);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient( to right, #3a7bd5, #00d2ff);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    margin: auto;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    padding-top: 2em;
+}
+
+.contact-grid {
+    background: white;
+    text-align: center;
+    justify-content: center;
+    width: 90%;
+    height: 550px;
+    color: #3a7bd5;
+    border-radius: 20px;
+}
+
+.contact-grid h2 {
+    font-family: "Spectral", serif;
+    font-weight: bold;
+}
+
+
+.contact-grid hr {
+    margin: 25px 0;
+    height: 2px;
+    border: 0;
+    background: #00d2ff;
+    background: -webkit-gradient( linear, 0 0, 100% 0, from(white), to(white), color-stop(25%, #00d2ff), color-stop(75%, #00d2ff));
+}
+
+.contact-list i {
+    font-size: 45px;
+    padding-right: 8rem;
+    color: #3a7bd5;
+
+}
+
+.contact-list a {
+    color:#3a7bd5;
+    font-size: 30px;
+    font-family: 'Spectral', serif;
+    text-decoration: none;
+}
+
+#pStyle {
+    color: #3a7bd5;
+    font-family: 'Spectral', serif;
+    font-weight: 900;
+}
+
+#contactImg {
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 45px;
+
+}

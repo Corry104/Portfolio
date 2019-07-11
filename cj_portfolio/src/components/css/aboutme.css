@@ -1,0 +1,21 @@
+
+#about-pic-right {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+    width: 100%;
+    margin: 0;
+    border-radius: 45px;
+}
+
+.about-left-col h1 {
+    font-family: 'Spectral', serif;
+    color: #3a7bd5;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.about-left-col p {
+    color: #3a7bd5;
+}

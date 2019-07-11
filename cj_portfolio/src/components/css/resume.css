@@ -1,0 +1,82 @@
+/* CSS Resume page */
+
+.resume-left-col {
+    color: #3a7bd5;
+}
+
+
+#imgStyle {
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 45px;
+    padding-top: 1.5em;
+}
+
+.resume-left-col h2 {
+    padding-top: 1.5em;
+    text-align: center;
+    font-family: 'Spectral', serif;
+    color: blue;
+}
+
+.resume-left-col h4 {
+    text-align: center;
+    font-family: 'Spectral', serif;
+}
+
+.resume-left-col hr {
+    margin: 25px 0;
+    height: 2px;
+    border: 0;
+    background: #00d2ff;
+    background: -webkit-gradient( linear, 0 0, 100% 0, from(white), to(white), color-stop(25%, #00d2ff), color-stop(75%, #00d2ff));
+}
+
+.resume-left-col a {
+    color: #3a7bd5;
+    font-family: 'Spectral', serif;
+    text-decoration: none;
+}
+
+.resume-left-col h5 {
+    color: blue;
+    font-family: 'Spectral', serif;
+}
+
+.resume-left-col p {
+    color: #3a7bd5;
+    font-family: 'Spectral', serif;
+    font-weight: 900;
+}
+
+
+.resume-right-col {
+    background: #00d2ff;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3a7bd5, #00d2ff);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient( to right, #3a7bd5, #00d2ff);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+    padding: 1.5em;
+}
+
+.resume-right-col h2, p {
+    font-family: 'Spectral', serif;
+    color: white;
+}
+
+.resume-right-col hr {
+    padding: 0;
+    border: none;
+    border-top: medium double white;
+    color: white;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
