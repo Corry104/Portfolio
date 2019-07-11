@@ -34,11 +34,11 @@ class About extends Component {
 
                     <Cell className='img-right-col' col={6}>
                     <div>
-                            {/* <img
-                                src={require('./images/ortfolio-background.jpg')}
+                            <img
+                                src={require('./images/ortfolio-backgrnd.jpg')}
                                 alt='LA_Rome_Lndn'
                                 id='about-pic-right'
-                            /> */}
+                            />
                         </div>
 
                     </Cell>

@@ -19,7 +19,16 @@ class Landing extends Component {
                             <h1>Full Stack Software Developer</h1>
 
                             <hr />
-                            <p>HTML/CSS | JavaScript | MERN Stack | JQuery | MySQL | Heroku | GitHub</p>
+
+                            <div className='lp-skills'>
+                            <a href='https://en.wikipedia.org/wiki/HTML' target='_blank' rel="noopener noreferrer" > HTML/CSS | </a>
+                            <a href='https://en.wikipedia.org/wiki/JavaScript' target='_blank' rel="noopener noreferrer"> JavaScript | </a>
+                            <a href='https://en.wikipedia.org/wiki/MEAN_(software_bundle)' target='_blank' rel="noopener noreferrer"> MERN Stack | </a>
+                            <a href='https://en.wikipedia.org/wiki/JQuery' target='_blank' rel="noopener noreferrer"> JQuery | </a>
+                            <a href='https://en.wikipedia.org/wiki/MySQL' target='_blank' rel="noopener noreferrer"> MySQL | </a>
+                            <a href='https://en.wikipedia.org/wiki/Heroku' target='_blank' rel="noopener noreferrer"> Heroku | </a>
+                            <a href='https://en.wikipedia.org/wiki/GitHub' target='_blank' rel="noopener noreferrer"> GitHub</a>
+                            </div>
 
                             <div className='social-links'>
 
@@ -43,7 +52,8 @@ class Landing extends Component {
 
 const gridStyle = {
     width: '100%',
-    margin: 'auto'
+    margin: 'auto',
+    height:'100%'
 }
 
 export default Landing;
