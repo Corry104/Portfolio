@@ -43,29 +43,30 @@ class Resume extends Component {
                         <br/>
                         <a href='https://docs.google.com/document/d/1z_rkTi9kQtj7PnDwzda-RJFpqVOE6O4cWHJNgB33d-U/edit?usp=sharing' target='a_blank'><strong>Resume Black & White Version</strong></a>
 
+                        <h5>Languages Spoken</h5>
+                        <p>English</p>
+                        <p>Italiano</p>
+                        <p>Español</p>
+                        <p>Français</p>
+
 
                     </Cell>
                     <Cell className='resume-right-col' col={8}>
 
-                        {/* list of all my education level */}
-                        <h2>Education</h2>
-
-                        <Education
-                            startYear={2018}
-                            endYear={2019}
-                            schoolTitle= 'Student'
-                            schoolName='UCLA Full Stack Web Development Bootcamp'
-                            schoolDescription='
-                            Building and implementing dynamic end-to-end web applications with responsive designs using browser based technolgies, such as HTML, CSS, Javascript and Jquery.
-                            Developing user-friendly, programmer-friendly, customer-friendly, reliable, and easily readable applications, understanding concepts and terminology of object-oriented programming.
-                            Designing applications employing common design patterns calibrated to the use of platforms using MERN stack as well as MySQL and Firebase database.'
-                        />
-
-                        <hr />
-
                         {/* list of all my work experiences */}
 
                         <h2>Experience</h2>
+
+                        <Experience
+                            startYear={2019}
+                            endYear={'Present'}
+                            jobTitle='Freelancer'
+                            jobName='Consultant Software Developer Self-Employed'
+                            jobDescription=
+                            'Working on a range of freelance web projects, including my own portfolio.
+                            Developed a series of HTML CSS and JavaScript project for Adler & Associates Entertainment group.
+                            Proficient in MERN Stack, MySQL, GitHub and RESTful API and WordPress.'
+                        />
 
                         <Experience
                             startYear={2014}
@@ -73,8 +74,8 @@ class Resume extends Component {
                             jobTitle='Assistant General Manager'
                             jobName='Four Seasons Hotel & Resorts | CUT by Wolfgang Puck'
                             jobDescription=
-                            "➢	Increased customer satisfaction rate by developing and elevating guest service experience.
-                             ➢	Decreased IT issues with Squirrel Software system, such as frozen system, upgrades or change of style. Also decreased labor cost by creating financial spreadsheet analysis for the restaurant and the hotel based upon implemented daily data."
+                            "Increased customer satisfaction rate by developing and elevating guest service experience.
+                             Decreased IT issues with Squirrel Software system, such as frozen system, upgrades or change of style. Also decreased labor cost by creating financial spreadsheet analysis for the restaurant and the hotel based upon implemented daily data."
                         />
 
                         <Experience
@@ -82,9 +83,32 @@ class Resume extends Component {
                             endYear={2014}
                             jobTitle='Senior Manager'
                             jobName='Spago BH by Wolfgang Puck'
-                            jobDescription='Actively involved in building long-lasting guest relationship with the local community by creating and elevating our customer service experience. Directly leading the service department of a Michelin Start establishment with a total of over 60 team members. 
-                            Involved in the process of hiring and training for the whole department and actively involved in working with the Open Table reservation system team in creating various ways of maximizing the amount of seating in the restaurant to implement data, based on dining time, reservation hours and number of tables algorithms.'
+                            jobDescription=
+                            'Proven records of  leadership and training a team of over 60 members.
+                            Increased revenue,  by actively working with the reservation system team in creating ways of maximizing the amount of seating in the restaurant to implement data, based on dining time, reservation hours and number of tables algorithms.'
+                        />
 
+                        <hr />
+
+                        {/* list of all my education level */}
+
+                        <h2>Education</h2>
+
+                        <Education
+                            endYear={2019}
+                            schoolTitle= 'Student'
+                            schoolName='UCLA Full Stack Web Development Bootcamp'
+                            schoolDescription=
+                            'Building and implementing dynamic end-to-end applications with responsive designs using  browser based technologies, such as HTML and CSS, JavaScript and jQuery,
+                            employing high quality design patterns calibrated to the use of platforms using MERN stack as well as MySQL and Firebase database.'
+                        />
+
+                        <Education
+                            endYear={2006}
+                            schoolTitle= 'Student'
+                            schoolName='School of Business Adminitartion'
+                            schoolDescription=
+                            'The administration of a business includes the performance or management of business operations and decision making, as well as the efficient organization of people and other resources, to direct activities towards common goals and objectives'
                         />
                         <hr />
 
