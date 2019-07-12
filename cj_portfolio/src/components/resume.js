@@ -38,16 +38,16 @@ class Resume extends Component {
                         <h5>Email</h5>
                         <a href="mailto:cj.alfano@yahoo.com?subject=We%20want%20you%20in%20our%20team!!&body=message%20goes%20here"><strong>cj.alfano@yahoo.com</strong></a>
                         <h5>Resume</h5>
-                        <a href='https://drive.google.com/file/d/1Y8VkH62sACU4L7a2aoOc2u7nJFa2ytYV/view?usp=sharing' target='a_blank'><strong>Resume Colored Version</strong></a>
+                        <a href='https://drive.google.com/file/d/1V8-VfaZZgYF_fVsrlsaSvuGXyvhfTERF/view?usp=sharing' target='a_blank'><strong>Resume Colored Version</strong></a>
                         <br/>
                         <br/>
-                        <a href='https://docs.google.com/document/d/1z_rkTi9kQtj7PnDwzda-RJFpqVOE6O4cWHJNgB33d-U/edit?usp=sharing' target='a_blank'><strong>Resume Black & White Version</strong></a>
+                        <a href='https://docs.google.com/document/d/1Wd9jdQPf1nBYOpDU1xY4NgMidM9JDtLLWo8S2lD0B78/edit?usp=sharing' target='a_blank'><strong>Resume Black & White Version</strong></a>
 
                         <h5>Languages Spoken</h5>
-                        <p>English</p>
-                        <p>Italiano</p>
-                        <p>Español</p>
-                        <p>Français</p>
+                        <p><span role="img" aria-label="british-flag">🇬🇧 English</span></p>
+                        <p><span role="img" aria-label="italian-flag">🇮🇹 Italiano</span></p>
+                        <p><span role="img" aria-label="spanish-flag">🇪🇸 Español</span></p>
+                        <p><span role="img" aria-label="french-flag">🇫🇷 Français</span></p>
 
 
                     </Cell>
@@ -61,6 +61,7 @@ class Resume extends Component {
                             startYear={2019}
                             endYear={'Present'}
                             jobTitle='Freelancer'
+                            Location='Los Angeles, CA'
                             jobName='Consultant Software Developer Self-Employed'
                             jobDescription=
                             'Working on a range of freelance web projects, including my own portfolio.
@@ -72,6 +73,7 @@ class Resume extends Component {
                             startYear={2014}
                             endYear={2017}
                             jobTitle='Assistant General Manager'
+                            Location='Beverly Hills, CA'
                             jobName='Four Seasons Hotel & Resorts | CUT by Wolfgang Puck'
                             jobDescription=
                             "Increased customer satisfaction rate by developing and elevating guest service experience.
@@ -82,6 +84,7 @@ class Resume extends Component {
                             startYear={2013}
                             endYear={2014}
                             jobTitle='Senior Manager'
+                            Location='Beverly Hills, CA'
                             jobName='Spago Beverly Hills by Wolfgang Puck'
                             jobDescription=
                             'Proven records of  leadership and training a team of over 60 members.
@@ -97,6 +100,7 @@ class Resume extends Component {
                         <Education
                             endYear={2019}
                             schoolTitle= 'Student'
+                            Location= 'Los Angeles, CA'
                             schoolName='UCLA Full Stack Web Development Bootcamp'
                             schoolDescription=
                             'Building and implementing dynamic end-to-end applications with responsive designs using  browser based technologies, such as HTML and CSS, JavaScript and jQuery,
@@ -106,7 +110,8 @@ class Resume extends Component {
                         <Education
                             endYear={2006}
                             schoolTitle= 'Student'
-                            schoolName='School of Business Administration'
+                            Location='Rome, IT'
+                            schoolName='Michelangelo Buonarroti | School of Business Administration'
                             schoolDescription=
                             'The administration of a business includes the performance or management of business operations and decision making, as well as the efficient organization of people and other resources, to direct activities towards common goals and objectives'
                         />

@@ -8,7 +8,7 @@ class Experience extends Component {
             <Grid>
                 <Cell col={4}>
                     <p><strong>{this.props.startYear} - {this.props.endYear}</strong></p>
-                    <p>{this.props.jobTitle}</p>
+                    {this.props.jobTitle} <br/> {this.props.Location}
 
                 </Cell>
 
