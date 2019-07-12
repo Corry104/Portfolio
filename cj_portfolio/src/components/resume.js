@@ -82,7 +82,7 @@ class Resume extends Component {
                             startYear={2013}
                             endYear={2014}
                             jobTitle='Senior Manager'
-                            jobName='Spago BH by Wolfgang Puck'
+                            jobName='Spago Beverly Hills by Wolfgang Puck'
                             jobDescription=
                             'Proven records of  leadership and training a team of over 60 members.
                             Increased revenue,  by actively working with the reservation system team in creating ways of maximizing the amount of seating in the restaurant to implement data, based on dining time, reservation hours and number of tables algorithms.'
@@ -106,7 +106,7 @@ class Resume extends Component {
                         <Education
                             endYear={2006}
                             schoolTitle= 'Student'
-                            schoolName='School of Business Adminitartion'
+                            schoolName='School of Business Administration'
                             schoolDescription=
                             'The administration of a business includes the performance or management of business operations and decision making, as well as the efficient organization of people and other resources, to direct activities towards common goals and objectives'
                         />
@@ -124,7 +124,7 @@ class Resume extends Component {
                             progress={100}
                         />
                         <Skills
-                            skills='JQuery'
+                            skills='jQuery'
                             progress={80}
                         />
                         <Skills
