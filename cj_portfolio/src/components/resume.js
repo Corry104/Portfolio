@@ -41,7 +41,7 @@ class Resume extends Component {
                         <a href='https://drive.google.com/file/d/1cAGn_S11D7szywPWg_nMfrm7C6x-gKJl/view?usp=sharing' target='a_blank'><strong>Resume Colored Version</strong></a>
                         <br/>
                         <br/>
-                        <a href='https://drive.google.com/file/d/1k5K4oyIx7QZAne5MEd3DS-7LHAxlMpGE/view?usp=sharing' target='a_blank'><strong>Resume Black & White Version</strong></a>
+                        <a href='https://docs.google.com/document/d/1CfBwI5CMDGvzJsm_951jYocVQwTSxPo7gkKiipyPkM8/edit?usp=sharing' target='a_blank'><strong>Resume Black & White Version</strong></a>
 
                         <h5>Languages Spoken</h5>
                         <p><span role="img" aria-label="british-flag">🇬🇧 English</span></p>
