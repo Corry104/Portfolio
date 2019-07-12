@@ -19,3 +19,25 @@
 .about-left-col p {
     color: #3a7bd5;
 }
+
+/* {For all versions of iPhone, Android, iPad, Galaxy, Kindle} */
+
+@media only screen and (max-width: 750px) {
+
+    .about-left-col h1 {
+        font-family: 'Spectral', serif;
+        color: #3a7bd5;
+        font-size: 28px;
+        font-weight: bold;
+    }
+
+
+    #about-pic-right {
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 400px;
+        width: 100%;
+        border-radius: 45px;
+    }
+}

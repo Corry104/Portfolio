@@ -34,3 +34,32 @@
     font-size: 30px;
     font-family: 'Spectral', serif;
 }
+
+/* {For all versions of iPhone, Android, iPad, Galaxy, Kindle} */
+
+@media only screen and (max-width: 800px) {
+
+    .Message404 h1 {
+        padding-top: 2em;
+        font-family: 'Spectral', serif;
+        color: white;
+        font-size: 38px;
+    }
+
+    .Message404 p {
+        color: white;
+        font-size: 20px;
+        font-family: 'Spectral', serif;
+    
+    }
+    
+    .Message404 a {
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+        font-family: 'Spectral', serif;
+    }
+
+   
+
+}

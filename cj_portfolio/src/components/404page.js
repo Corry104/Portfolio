@@ -11,12 +11,12 @@ class NotFound extends Component {
                 <Grid className='landing-grid-404'>
                     <Cell col={12}>
                         <div className='Message404'>
-                            <h1>AWW <span role='img' aria-label='sadFace'>&#x1F614;&#x1F614;</span> I looked really hard </h1>
+                            <h1>AWW <span role='img' aria-label='sadFace'>&#x1F614;&#x1F614;</span> I looked really hard... </h1>
 
-                            <p>...but it appears the page you seek doesn't exist anymore.. </p>
+                            <p>...but it appears the page you seek doesn't exist anymore..<span role='img' aria-label='idk-face'>&#x1F914;</span> </p>
                             <br/>
                             <br/>
-                           <a href='/'>you can simply click here if you like to go back to the home page</a>
+                           <a href='/'>you can simply click here if you like to go back to the home page <span role='img' aria-label='cold-sweat-face'>&#128517;</span></a>
                         </div>
                     </Cell>
                 </Grid>

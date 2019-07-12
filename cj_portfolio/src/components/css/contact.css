@@ -38,9 +38,8 @@
 
 .contact-list i {
     font-size: 45px;
-    padding-right: 8rem;
+    padding-right: 2rem;
     color: #3a7bd5;
-
 }
 
 .contact-list a {
@@ -62,5 +61,23 @@
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 45px;
+}
+
+/* {For all versions of iPhone, Android, iPad, Galaxy, Kindle} */
+
+@media only screen and (max-width: 750px) {
+
+    .contact-list i {
+        font-size: 30px;
+        padding: 10px;
+        color: #3a7bd5;
+    }
+
+    .contact-list a {
+        color:#3a7bd5;
+        font-size: 20px;
+        font-family: 'Spectral', serif;
+        text-decoration: none;
+    }
 
 }

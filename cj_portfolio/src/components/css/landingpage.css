@@ -23,7 +23,7 @@
 
 #avatar-pic {
     height: 300px;
-    padding-top: 1.5em;
+    padding-top: 1em;
     border-radius: 45px;
 }
 
@@ -37,7 +37,7 @@
 .lp-skills {
     font-size: 30px;
     padding-top: 1.5em;
-    padding-bottom: 1.5em;
+    padding-bottom: 1em;
     font-family: "Spectral", serif;
 }
 
@@ -67,4 +67,34 @@
     color: white;
     font-size: 3em;
     padding: 8px;
+}
+
+/* {For all versions of iPhone, Android, iPad, Galaxy, Kindle} */
+
+@media only screen and (max-width: 800px) {
+
+    #avatar-pic {
+        height: 200px;
+        padding-top: 1em;
+        border-radius: 35px;
+    }
+
+    .banner-text h1 {
+        font-size: 50px;
+        color: white;
+        font-family: "Spectral", serif;
+    }
+
+    .lp-skills {
+        font-size: 21px;
+        font-family: "Spectral", serif;
+        margin-right: 20px;
+    }
+
+    .social-links {
+        display: flex;
+        justify-content: space-between;
+        width: 50%;
+        margin: auto;
+    }
 }
