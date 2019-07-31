@@ -38,10 +38,10 @@ class Resume extends Component {
                         <h5>Email</h5>
                         <a href="mailto:cj.alfano@yahoo.com?subject=We%20want%20you%20in%20our%20team!!&body=message%20goes%20here"><strong>cj.alfano@yahoo.com</strong></a>
                         <h5>Resume</h5>
-                        <a href='https://drive.google.com/file/d/1cAGn_S11D7szywPWg_nMfrm7C6x-gKJl/view?usp=sharing' target='a_blank'><strong>Resume Colored Version</strong></a>
+                        <a href='https://drive.google.com/file/d/1V8-VfaZZgYF_fVsrlsaSvuGXyvhfTERF/view?usp=sharing' target='a_blank'><strong>Resume Colored Version</strong></a>
                         <br/>
                         <br/>
-                        <a href='https://docs.google.com/document/d/1CfBwI5CMDGvzJsm_951jYocVQwTSxPo7gkKiipyPkM8/edit?usp=sharing' target='a_blank'><strong>Resume Black & White Version</strong></a>
+                        <a href='https://docs.google.com/document/d/1Wd9jdQPf1nBYOpDU1xY4NgMidM9JDtLLWo8S2lD0B78/edit?usp=sharing' target='a_blank'><strong>Resume Black & White Version</strong></a>
 
                         <h5>Languages Spoken</h5>
                         <p><span role="img" aria-label="british-flag">🇬🇧 English</span></p>
@@ -63,10 +63,9 @@ class Resume extends Component {
                             jobTitle='Freelancer'
                             Location='Los Angeles, CA'
                             jobName='Consultant Software Developer Self-Employed'
-                            jobDescription=
-                            'Working on a range of freelance web projects, including my own portfolio.
-                            Developed a series of HTML CSS and JavaScript project for Adler & Associates Entertainment group.
-                            Proficient in MERN Stack, MySQL, GitHub and RESTful API and WordPress.'
+                            jobDescription1="Working on a range of freelance web projects, including my own portfolio."
+                            jobDescription2="Developed a series of HTML CSS and JavaScript project for Adler & Associates Entertainment group."
+                            jobDescription3="Proficient in MERN Stack, MySQL, GitHub and RESTful API and WordPress."
                         />
 
                         <Experience
@@ -75,9 +74,9 @@ class Resume extends Component {
                             jobTitle='Assistant General Manager'
                             Location='Beverly Hills, CA'
                             jobName='Four Seasons Hotel & Resorts | CUT by Wolfgang Puck'
-                            jobDescription=
-                            "Increased customer satisfaction rate by developing and elevating guest service experience.
-                             Decreased IT issues with Squirrel Software system, such as frozen system, upgrades or change of style. Also decreased labor cost by creating financial spreadsheet analysis for the restaurant and the hotel based upon implemented daily data."
+                            jobDescription1="Increased customer satisfaction rate by developing and elevating guest service experience."
+                            jobDescription2="Decreased IT issues with Squirrel Software system, such as frozen system, upgrades or change of style."
+                            jobDescription3="Decreased labor cost by creating financial spreadsheet analysis for the restaurant and the hotel based upon implemented daily data."
                         />
 
                         <Experience
@@ -86,9 +85,9 @@ class Resume extends Component {
                             jobTitle='Senior Manager'
                             Location='Beverly Hills, CA'
                             jobName='Spago Beverly Hills by Wolfgang Puck'
-                            jobDescription=
-                            'Proven records of  leadership and training a team of over 60 members.
-                            Increased revenue,  by actively working with the reservation system team in creating ways of maximizing the amount of seating in the restaurant to implement data, based on dining time, reservation hours and number of tables algorithms.'
+                            jobDescription1='Proven records of leadership and training a team of over 60 members.'
+                            jobDescription2="Increased revenue, by actively working with the reservation system team in creating ways of maximizing the amount of seating in the restaurant to implement data, based on dining time, reservation hours and number of tables algorithms."
+                            jobDescription3="Succesfully created and incremented the number of reservations by adopting a 'direct-communication' system with all our guests, especially with the local Beverly Hills community and surrounding areas. "
                         />
 
                         <hr />

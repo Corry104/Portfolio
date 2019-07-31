@@ -80,3 +80,7 @@
     width: 80%;
     margin: auto;
 }
+
+ul.bulPoints {
+    list-style-type: circle;
+}

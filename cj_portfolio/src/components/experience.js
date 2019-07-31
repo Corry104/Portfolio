@@ -14,8 +14,11 @@ class Experience extends Component {
 
                 <Cell col={8}>
                     <h4 style={{fontFamily: 'Spectral'}}>{this.props.jobName}</h4>
-                    <p><strong>{this.props.jobDescription}</strong></p>
-
+                    <ul className='bulPoints'>
+                        <li><strong>{this.props.jobDescription1}</strong></li>
+                        <li><strong>{this.props.jobDescription2}</strong></li>
+                        <li><strong>{this.props.jobDescription3}</strong></li>
+                    </ul>
                 </Cell>
             </Grid>
         )
