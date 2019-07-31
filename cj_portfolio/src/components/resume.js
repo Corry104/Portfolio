@@ -38,10 +38,10 @@ class Resume extends Component {
                         <h5>Email</h5>
                         <a href="mailto:cj.alfano@yahoo.com?subject=We%20want%20you%20in%20our%20team!!&body=message%20goes%20here"><strong>cj.alfano@yahoo.com</strong></a>
                         <h5>Resume</h5>
-                        <a href='https://drive.google.com/file/d/1V8-VfaZZgYF_fVsrlsaSvuGXyvhfTERF/view?usp=sharing' target='a_blank'><strong>Resume Colored Version</strong></a>
+                        <a href='https://drive.google.com/file/d/1v046QDnaKI5r586dBmPCWM0V5wU9gzUt/view?usp=sharing' target='a_blank'><strong>Resume Colored Version</strong></a>
                         <br/>
                         <br/>
-                        <a href='https://docs.google.com/document/d/1Wd9jdQPf1nBYOpDU1xY4NgMidM9JDtLLWo8S2lD0B78/edit?usp=sharing' target='a_blank'><strong>Resume Black & White Version</strong></a>
+                        <a href='https://drive.google.com/file/d/1lF0wfY8p8qVdhXe29QR7JTcsRS-hpVpL/view?usp=sharing' target='a_blank'><strong>Resume Black & White Version</strong></a>
 
                         <h5>Languages Spoken</h5>
                         <p><span role="img" aria-label="british-flag">🇬🇧 English</span></p>
