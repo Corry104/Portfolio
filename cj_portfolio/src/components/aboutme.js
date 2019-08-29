@@ -12,14 +12,14 @@ class About extends Component {
                     <div>
                         <h1>Allow Me To Introduce Myself...  </h1>
                     </div>
-                        <p><strong>
-                           My name is Corrado I was born in Rome, grew up in London and I am now living in this city of Angels, in California since 2013.<br/>
+                    <p><strong>
+                           My name is Corrado I was born in Rome and I grew up in London and I am now living in this city of Angels, in California since 2013.<br/>
                            <br/>
-                           I am a people person, passionate about organization and solving problems I decided to study business administration and hospitality when I was very young.
-                           After studying in Italy I eventually made my way to London where I managed and lead the finest teams inside the finest Hotels and restaurants the city had to offer and here in Los Angeles, where I have crafted and mastered the art of human relationship.
+                           I am a people person, passionate about organization and solving problems, I decided to study business administration and hospitality at a very young age.
+                           After completing my studying in Italy I eventually made my way to London where I managed and led the finest teams inside the finest hotels and restaurants the city had to offer and here in Los Angeles, where I have crafted and mastered the art of human relationship.
                            <br/><br/>
-                           About a couple of years ago my life changed upside down when I became a single father. My boy and I do everything together, we love playing bowling and videogames as much as outdoors acivities,
-                           like climbing &#129495;&#127995;, golfing &#127948;, fencing &#128170;&#127995;, horse riding &#127943; and walking by the beach at sunset eating gelato. [the last one is probably our favourite] &#128516;<br/>
+                           I am a single father with a boy of 4 years old. I am set to be an example for him and we do quite a lot of things together. We both love outdoor activities as much as the indoor, we love playing bowling 🎳 and video games 🎮; we
+                           like climbing &#129495;&#127995;, golfing &#127948;, fencing 🤺, horse riding &#127943; and walking by the beach 🏖️ at sunset eating gelato 🍦. [the last one is probably our favorite] &#128516;<br/>
                            <br/>
                            My introduction to Software Development happened during the summer of 2018 when, because of my family situation, I couldn't fulfill the lifestyle requirements of a restaurant General Manager so I decided to look for an industry where I could transfer my personal and professional skills, and let me 
                            tell you... I found what I was looking for...
