@@ -38,10 +38,10 @@ class Resume extends Component {
                         <h5>Email</h5>
                         <a href="mailto:cj.alfano@yahoo.com?subject=We%20want%20you%20in%20our%20team!!&body=message%20goes%20here"><strong>cj.alfano@yahoo.com</strong></a>
                         <h5>Resume</h5>
-                        <a href='https://drive.google.com/file/d/1v046QDnaKI5r586dBmPCWM0V5wU9gzUt/view?usp=sharing' target='a_blank'><strong>Resume Colored Version</strong></a>
+                        <a href='https://drive.google.com/open?id=1GHjYvN1EvgVoZsRkbvCXl0AQsHV00KaL' target='a_blank'><strong>Resume Colored Version</strong></a>
                         <br/>
                         <br/>
-                        <a href='https://drive.google.com/file/d/1lF0wfY8p8qVdhXe29QR7JTcsRS-hpVpL/view?usp=sharing' target='a_blank'><strong>Resume Black & White Version</strong></a>
+                        <a href='https://drive.google.com/file/d/1Aehyy_jDPYHBY8s2gMpmxTpPDJDWsW-5/view?usp=sharing' target='a_blank'><strong>Resume Black & White Version</strong></a>
 
                         <h5>Languages Spoken</h5>
                         <p><span role="img" aria-label="british-flag">🇬🇧 English</span></p>
@@ -56,6 +56,17 @@ class Resume extends Component {
                         {/* list of all my work experiences */}
 
                         <h2>Experience</h2>
+
+                        <Experience
+                            startYear={2019}
+                            endYear={'Present'}
+                            jobTitle='Instructor Assistant'
+                            Location='Los Angeles, CA'
+                            jobName='Trilogy Education Full Stack Web Development Bootcamp'
+                            jobDescription1="Assist in the development and transition of working professionals and recent graduates into careers in web development."
+                            jobDescription2="Lead classroom discussions, emphasize meta-skills, and core concepts of software engineering."
+                            jobDescription3="Support students in their projects and challenges, and provide constructive feedback."
+                        />
 
                         <Experience
                             startYear={2019}
@@ -77,17 +88,6 @@ class Resume extends Component {
                             jobDescription1="Increased customer satisfaction rate by developing and elevating guest service experience."
                             jobDescription2="Decreased IT issues with Squirrel Software system, such as frozen system, upgrades or change of style."
                             jobDescription3="Decreased labor cost by creating financial spreadsheet analysis for the restaurant and the hotel based upon implemented daily data."
-                        />
-
-                        <Experience
-                            startYear={2013}
-                            endYear={2014}
-                            jobTitle='Senior Manager'
-                            Location='Beverly Hills, CA'
-                            jobName='Spago Beverly Hills by Wolfgang Puck'
-                            jobDescription1='Proven records of leadership and training a team of over 60 members.'
-                            jobDescription2="Increased revenue, by actively working with the reservation system team in creating ways of maximizing the amount of seating in the restaurant to implement data, based on dining time, reservation hours and number of tables algorithms."
-                            jobDescription3="Succesfully created and incremented the number of reservations by adopting a 'direct-communication' system with all our guests, especially with the local Beverly Hills community and surrounding areas. "
                         />
 
                         <hr />
