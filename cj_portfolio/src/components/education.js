@@ -14,7 +14,8 @@ class Education extends Component {
 
                 <Cell col={8}>
                     <h4 style={{fontFamily: 'Spectral'}}>{this.props.schoolName}</h4>
-                    <p><strong>{this.props.schoolDescription}</strong></p>
+                    <p><strong>{this.props.schoolDescription1}</strong></p>
+                    <p><strong>{this.props.schoolDescription2}</strong></p>
 
                 </Cell>
             </Grid>
